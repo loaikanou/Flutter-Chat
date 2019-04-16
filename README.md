@@ -1,6 +1,6 @@
-# flutter_chat
+# Flutter Chat
 
-A new Flutter project.
+A Flutter Chat UI.
 
 ## Getting Started
 
