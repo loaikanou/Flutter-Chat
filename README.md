@@ -2,6 +2,8 @@
 
 A Flutter Chat UI.
 
+[![Codemagic build status](https://api.codemagic.io/apps/5ccd9cab156165000a3eee8b/5ccd9cab156165000a3eee8a/status_badge.svg)](https://codemagic.io/apps/5ccd9cab156165000a3eee8b/5ccd9cab156165000a3eee8a/latest_build)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
